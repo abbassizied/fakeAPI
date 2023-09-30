@@ -1,0 +1,121 @@
+{
+	"posts": [{
+			"img": {
+				"url": "https://localhost:8000/images/b1.jpg",
+				"alt": "aaaaaaaaaaaaaaaaaa"
+			},
+			"title": "aaaaaaaaa",
+			"author": "aaaaaaaaa",
+			"id": 1
+		},
+		{
+			"img": {
+				"url": "https://localhost:8000/images/c1.jpg",
+				"alt": "aaaaaaaaaaaaaaaaaa"
+			},
+			"title": "zied",
+			"author": "Abbassi",
+			"id": 4
+		},
+		{
+			"img": {
+				"url": "https://localhost:8000/images/b2.jpg",
+				"alt": "aaaaaaaaaaaaaaaaaa"
+			},
+			"title": "loooooooooooooooop",
+			"author": "loooooooooooooooop",
+			"id": 8
+		},
+		{
+			"title": "aaaaaaaaa",
+			"author": "loooooooooooooooop",
+			"id": 9
+		},
+		{
+			"title": "999",
+			"author": "aaaaaaaaa",
+			"id": 11
+		}
+	],
+	"users": [{
+			"id": 1,
+			"firstName": "Abbassi",
+			"lastName": "Zied",
+			"username": "Zizou87",
+			"role": "admin",
+			"password": "my-super-secret-password",
+			"confirmPassword": "my-super-secret-password",
+			"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZmlyc3ROYW1lIjoiQWJiYXNzaSIsImxhc3ROYW1lIjoiWmllZCIsInVzZXJuYW1lIjoiWml6b3U4NyIsInJvbGUiOiJhZG1pbiIsInBhc3N3b3JkIjoibXktc3VwZXItc2VjcmV0LXBhc3N3b3JkIiwiY29uZmlybVBhc3N3b3JkIjoibXktc3VwZXItc2VjcmV0LXBhc3N3b3JkIiwiYWNjZXB0VGVybXMiOnRydWV9.WYT61Rs4HrS_KNLN22YzEIFAarD7IpqZ6g58tq2f_ww",
+			"acceptTerms": true
+		},
+		{
+			"id": 2,
+			"firstName": "Adam",
+			"lastName": "Mohamed",
+			"username": "Midou",
+			"role": "user",
+			"password": "george-likes-spicy-chicken",
+			"confirmPassword": "george-likes-spicy-chicken",
+			"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwiZmlyc3ROYW1lIjoiQWRhbSIsImxhc3ROYW1lIjoiTW9oYW1lZCIsInVzZXJuYW1lIjoiTWlkb3UiLCJyb2xlIjoidXNlciIsInBhc3N3b3JkIjoiZ2VvcmdlLWxpa2VzLXNwaWN5LWNoaWNrZW4iLCJjb25maXJtUGFzc3dvcmQiOiJnZW9yZ2UtbGlrZXMtc3BpY3ktY2hpY2tlbiIsImFjY2VwdFRlcm1zIjp0cnVlfQ.HwP9IWqHPrxgceiTXRTZzSiziAHbBPDF2wLQnZTuTKo",
+			"acceptTerms": true
+		}
+	],
+	"companies": [{
+			"id": "1",
+			"name": "Apple",
+			"description": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California that designs, develops, and sells consumer electronics, computer software, and online services. ... Its online services include the iTunes Store, the iOS App Store and Mac App Store, Apple Music, and iCloud"
+		},
+		{
+			"id": "2",
+			"name": "Microsoft",
+			"description": "Microsoft Corporation, incorporated on September 22, 1993, is a technology company. The Company develops, licenses, and supports a range of software products, services and devices. The Company's segments include Productivity and Business Processes, Intelligent Cloud and More Personal Computing"
+		},
+		{
+			"id": "3",
+			"name": "Google",
+			"description": "Google was founded by Larry Page and Sergey Brin while they were students at Stanford University. The company was officially launched in September, 1998 in a friend's garage. ... The official mission statement of the company is to “organize the world's information and make it universally accessible and useful"
+		}
+	],
+	"employees": [{
+			"id": 1,
+			"firstName": "Sebastian",
+			"lastName": "Eschweiler",
+			"email": "sebastian@codingthesmartway.com"
+		},
+		{
+			"id": 2,
+			"firstName": "Steve",
+			"lastName": "Palmer",
+			"email": "steve@codingthesmartway.com"
+		},
+		{
+			"id": 3,
+			"firstName": "Ann",
+			"lastName": "Smith",
+			"email": "ann@codingthesmartway.com"
+		}, {
+			"id": 4,
+			"firstName": "John",
+			"lastName": "Doe",
+			"email": "john@gmail.com"
+		},
+		{
+			"id": 5,
+			"firstName": "Mark",
+			"lastName": "Williams",
+			"email": "mark@gmail.com"
+		},
+		{
+			"id": 6,
+			"firstName": "Sara",
+			"lastName": "Smith",
+			"email": "sara@gmail.com"
+		},
+		{
+			"id": 7,
+			"firstName": "Brad",
+			"lastName": "Traversy",
+			"email": "test@test.com"
+		}
+	]
+}
